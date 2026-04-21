@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @RitabrataRoychowdhury
 
-🔧 I’m a Software Developer at **NextZenMinds Pte Ltd (full-time)** , passionate about building scalable systems, automating DevOps workflows, and integrating intelligent AI/ML solutions into real-world applications.
+🔧 I’m a Software Engineer / Junior Solutions Architect at **NextZenMinds Technologies Pvt Ltd (full-time)** , passionate about building scalable systems, automating DevOps workflows, and integrating intelligent AI/ML solutions into real-world applications.
 
 ## 🚀 What I Do
 
