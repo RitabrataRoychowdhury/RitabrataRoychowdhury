@@ -25,7 +25,7 @@ Before Amazon I built and scaled distributed backend systems across **fintech, h
 
 ## 🧰 Tech I Reach For
 
-**Languages** · `Java` · `Go` · `Python`
+**Languages** · `Java` · `Go` · `Python`, `Rust`
 
 **Frameworks & Data** · `Spring Boot` · `Kafka` · `RabbitMQ` · `Apache Flink` · `Apache Spark` · `ClickHouse` · `Redis` · `PostgreSQL`
 
